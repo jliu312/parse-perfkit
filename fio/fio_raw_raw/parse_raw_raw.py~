@@ -1,0 +1,9 @@
+import json
+import sys
+
+fname = sys.argv[1]
+
+with open(f"{fname}.json") as jf:
+    obj = json.load(jf)
+    for o in obj:
+        print(o)

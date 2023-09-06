@@ -1,0 +1,108 @@
+---------- Random read test ----------
+KVM on Android: Random read test bandwidth - 58829.0 (KB/s)
+KVM on Android: Random read test latency - 55.291564971 (usec)
+KVM on Android: Random read test min - 0.406 (usec)
+KVM on Android: Random read test max - 2833.211 (usec)
+KVM on Android: Random read test mean - 55.291564971 (usec)
+KVM on Android: Random read test stddev - 59.876123714 (usec)
+KVM on Android: Random read test iops - 14707.407407 (nan)
+----------------------------
+---------- Random read test ----------
+t4g.2xlarge: Random read test bandwidth - 2571.0 (KB/s)
+t4g.2xlarge: Random read test latency - 1542.628064104 (usec)
+t4g.2xlarge: Random read test min - 0.623 (usec)
+t4g.2xlarge: Random read test max - 86841.055 (usec)
+t4g.2xlarge: Random read test mean - 1542.628064104 (usec)
+t4g.2xlarge: Random read test stddev - 1324.531892716 (usec)
+t4g.2xlarge: Random read test iops - 642.933129 (nan)
+----------------------------
+---------- Random read test parallel ----------
+KVM on Android: Random read test parallel bandwidth - 187976.0 (KB/s)
+KVM on Android: Random read test parallel latency - 1339.958067867 (usec)
+KVM on Android: Random read test parallel min - 196.615 (usec)
+KVM on Android: Random read test parallel max - 3663.575 (usec)
+KVM on Android: Random read test parallel mean - 1339.958067867 (usec)
+KVM on Android: Random read test parallel stddev - 557.537163229 (usec)
+KVM on Android: Random read test parallel iops - 46994.08284 (nan)
+----------------------------
+---------- Random read test parallel ----------
+t4g.2xlarge: Random read test parallel bandwidth - 8371.0 (KB/s)
+t4g.2xlarge: Random read test parallel latency - 30102.661525149 (usec)
+t4g.2xlarge: Random read test parallel min - 1235.823 (usec)
+t4g.2xlarge: Random read test parallel max - 12892387.87 (usec)
+t4g.2xlarge: Random read test parallel mean - 30102.661525149 (usec)
+t4g.2xlarge: Random read test parallel stddev - 366772.769354927 (usec)
+t4g.2xlarge: Random read test parallel iops - 2092.820041 (nan)
+----------------------------
+---------- Random read test parallel ----------
+KVM on Android: Random read test parallel bandwidth - 187976.0 (KB/s)
+KVM on Android: Random read test parallel latency - 1339.958067867 (usec)
+KVM on Android: Random read test parallel min - 196.615 (usec)
+KVM on Android: Random read test parallel max - 3663.575 (usec)
+KVM on Android: Random read test parallel mean - 1339.958067867 (usec)
+KVM on Android: Random read test parallel stddev - 557.537163229 (usec)
+KVM on Android: Random read test parallel iops - 46994.08284 (nan)
+----------------------------
+---------- Random read test parallel ----------
+t4g.2xlarge: Random read test parallel bandwidth - 8371.0 (KB/s)
+t4g.2xlarge: Random read test parallel latency - 30102.661525149 (usec)
+t4g.2xlarge: Random read test parallel min - 1235.823 (usec)
+t4g.2xlarge: Random read test parallel max - 12892387.87 (usec)
+t4g.2xlarge: Random read test parallel mean - 30102.661525149 (usec)
+t4g.2xlarge: Random read test parallel stddev - 366772.769354927 (usec)
+t4g.2xlarge: Random read test parallel iops - 2092.820041 (nan)
+----------------------------
+---------- Random write test ----------
+KVM on Android: Random write test bandwidth - 48353.0 (KB/s)
+KVM on Android: Random write test latency - 69.133800302 (usec)
+KVM on Android: Random write test min - 8.871 (usec)
+KVM on Android: Random write test max - 2363.037 (usec)
+KVM on Android: Random write test mean - 69.133800302 (usec)
+KVM on Android: Random write test stddev - 63.584573814 (usec)
+KVM on Android: Random write test iops - 12088.280061 (nan)
+----------------------------
+---------- Random write test ----------
+t4g.2xlarge: Random write test bandwidth - 3275.0 (KB/s)
+t4g.2xlarge: Random write test latency - 1207.525191212 (usec)
+t4g.2xlarge: Random write test min - 462.208 (usec)
+t4g.2xlarge: Random write test max - 25254.147 (usec)
+t4g.2xlarge: Random write test mean - 1207.525191212 (usec)
+t4g.2xlarge: Random write test stddev - 968.804910585 (usec)
+t4g.2xlarge: Random write test iops - 818.795711 (nan)
+----------------------------
+---------- Sequential read ----------
+KVM on Android: Sequential read bandwidth - 1469629.0 (KB/s)
+KVM on Android: Sequential read latency - 19447.915864516 (usec)
+KVM on Android: Sequential read min - 9137.614 (usec)
+KVM on Android: Sequential read max - 53359.945 (usec)
+KVM on Android: Sequential read mean - 19447.915864516 (usec)
+KVM on Android: Sequential read stddev - 9338.559193108 (usec)
+KVM on Android: Sequential read iops - 2870.37037 (nan)
+----------------------------
+---------- Sequential read ----------
+t4g.2xlarge: Sequential read bandwidth - 132995.0 (KB/s)
+t4g.2xlarge: Sequential read latency - 242383.448618567 (usec)
+t4g.2xlarge: Sequential read min - 27411.885 (usec)
+t4g.2xlarge: Sequential read max - 1174896.508 (usec)
+t4g.2xlarge: Sequential read mean - 242383.448618567 (usec)
+t4g.2xlarge: Sequential read stddev - 109142.244802358 (usec)
+t4g.2xlarge: Sequential read iops - 259.757565 (nan)
+----------------------------
+---------- Sequential write ----------
+KVM on Android: Sequential write bandwidth - 204010.0 (KB/s)
+KVM on Android: Sequential write latency - 70784.44843871001 (usec)
+KVM on Android: Sequential write min - 5095.663 (usec)
+KVM on Android: Sequential write max - 251485.84 (usec)
+KVM on Android: Sequential write mean - 70784.44843871001 (usec)
+KVM on Android: Sequential write stddev - 57220.877008758 (usec)
+KVM on Android: Sequential write iops - 398.457584 (nan)
+----------------------------
+---------- Sequential write ----------
+t4g.2xlarge: Sequential write bandwidth - 119774.0 (KB/s)
+t4g.2xlarge: Sequential write latency - 268431.789516466 (usec)
+t4g.2xlarge: Sequential write min - 115899.536 (usec)
+t4g.2xlarge: Sequential write max - 924467.775 (usec)
+t4g.2xlarge: Sequential write mean - 268431.789516466 (usec)
+t4g.2xlarge: Sequential write stddev - 107874.940625844 (usec)
+t4g.2xlarge: Sequential write iops - 233.934655 (nan)
+----------------------------

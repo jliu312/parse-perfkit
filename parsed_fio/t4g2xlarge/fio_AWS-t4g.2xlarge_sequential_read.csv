@@ -1,0 +1,25 @@
+Test,R/W,Metric,Value type,Value,Percentile,Units
+sequential_read,read,sequential_read,bandwidth,132995.0,-1,KB/s
+sequential_read,read,sequential_read,latency,242383.448618567,-1,usec
+sequential_read,read,latency,min,27411.885,-1,usec
+sequential_read,read,latency,max,1174896.508,-1,usec
+sequential_read,read,latency,mean,242383.448618567,-1,usec
+sequential_read,read,latency,stddev,109142.24480235801,-1,usec
+sequential_read,read,latency,p1,31326.208,1,usec
+sequential_read,read,latency,p5,67633.152,5,usec
+sequential_read,read,latency,p10,119013.376,10,usec
+sequential_read,read,latency,p20,235929.6,20,usec
+sequential_read,read,latency,p30,244318.208,30,usec
+sequential_read,read,latency,p40,244318.208,40,usec
+sequential_read,read,latency,p50,246415.36,50,usec
+sequential_read,read,latency,p60,246415.36,60,usec
+sequential_read,read,latency,p70,248512.512,70,usec
+sequential_read,read,latency,p80,250609.664,80,usec
+sequential_read,read,latency,p90,263192.576,90,usec
+sequential_read,read,latency,p95,362807.296,95,usec
+sequential_read,read,latency,p99,717225.984,99,usec
+sequential_read,read,latency,p99.5,901775.36,99.5,usec
+sequential_read,read,latency,p99.9,1166016.512,99.9,usec
+sequential_read,read,latency,p99.95,1166016.512,99.95,usec
+sequential_read,read,latency,p99.99,1182793.728,99.99,usec
+sequential_read,read,latency,iops,259.757565,-1,

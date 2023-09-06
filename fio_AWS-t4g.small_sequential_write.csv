@@ -1,0 +1,25 @@
+Test,R/W,Metric,Value type,Value,Percentile,Units
+sequential_write,write,sequential_write,bandwidth,97051.0,-1,KB/s
+sequential_write,write,sequential_write,latency,314840.133727273,-1,usec
+sequential_write,write,latency,min,190412.137,-1,usec
+sequential_write,write,latency,max,527564.942,-1,usec
+sequential_write,write,latency,mean,314840.133727273,-1,usec
+sequential_write,write,latency,stddev,69540.919177608,-1,usec
+sequential_write,write,latency,p1,198180.864,1,usec
+sequential_write,write,latency,p5,223346.688,5,usec
+sequential_write,write,latency,p10,229638.144,10,usec
+sequential_write,write,latency,p20,256901.12,20,usec
+sequential_write,write,latency,p30,283115.52,30,usec
+sequential_write,write,latency,p40,295698.432,40,usec
+sequential_write,write,latency,p50,308281.344,50,usec
+sequential_write,write,latency,p60,325058.56,60,usec
+sequential_write,write,latency,p70,333447.168,70,usec
+sequential_write,write,latency,p80,354418.688,80,usec
+sequential_write,write,latency,p90,371195.904,90,usec
+sequential_write,write,latency,p95,450887.68,95,usec
+sequential_write,write,latency,p99,526385.152,99,usec
+sequential_write,write,latency,p99.5,526385.152,99.5,usec
+sequential_write,write,latency,p99.9,526385.152,99.9,usec
+sequential_write,write,latency,p99.95,526385.152,99.95,usec
+sequential_write,write,latency,p99.99,526385.152,99.99,usec
+sequential_write,write,latency,iops,189.553043,-1,

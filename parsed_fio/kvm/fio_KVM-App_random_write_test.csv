@@ -1,0 +1,25 @@
+Test,R/W,Metric,Value type,Value,Percentile,Units
+random_write_test,write,random_write_test,bandwidth,48353.0,-1,KB/s
+random_write_test,write,random_write_test,latency,69.133800302,-1,usec
+random_write_test,write,latency,min,8.871,-1,usec
+random_write_test,write,latency,max,2363.037,-1,usec
+random_write_test,write,latency,mean,69.133800302,-1,usec
+random_write_test,write,latency,stddev,63.584573814,-1,usec
+random_write_test,write,latency,p1,24.192,1,usec
+random_write_test,write,latency,p5,39.168,5,usec
+random_write_test,write,latency,p10,47.872,10,usec
+random_write_test,write,latency,p20,49.92,20,usec
+random_write_test,write,latency,p30,53.504,30,usec
+random_write_test,write,latency,p40,54.528,40,usec
+random_write_test,write,latency,p50,55.04,50,usec
+random_write_test,write,latency,p60,56.064,60,usec
+random_write_test,write,latency,p70,59.648,70,usec
+random_write_test,write,latency,p80,68.096,80,usec
+random_write_test,write,latency,p90,105.984,90,usec
+random_write_test,write,latency,p95,148.48,95,usec
+random_write_test,write,latency,p99,242.688,99,usec
+random_write_test,write,latency,p99.5,329.728,99.5,usec
+random_write_test,write,latency,p99.9,897.024,99.9,usec
+random_write_test,write,latency,p99.95,1286.144,99.95,usec
+random_write_test,write,latency,p99.99,2375.68,99.99,usec
+random_write_test,write,latency,iops,12088.280061,-1,
